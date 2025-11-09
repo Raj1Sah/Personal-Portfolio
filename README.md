@@ -76,7 +76,7 @@ npm run dev
 yarn dev
 ```
 
-Open http://localhost:3000 (or the port your app uses) to view the site.
+Open (http://127.0.0.1:5500/index.html) (or the port your app uses) to view the site.
 
 ### Build & Deploy
 
