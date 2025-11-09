@@ -22,7 +22,7 @@ A clean, responsive personal portfolio website to showcase projects, experience,
 
 Add a link to a live demo or GitHub Pages site here (if available):
 
-- Live demo: https://your-username.github.io/Personal-Portfolio (replace with your actual URL)
+- Live demo:(https://vpds0mhh-5500.inc1.devtunnels.ms/) (replace with your actual URL)
 
 Include screenshots in the `assets/` or `public/` folder and reference them here.
 
@@ -40,9 +40,8 @@ Include screenshots in the `assets/` or `public/` folder and reference them here
 This project can be implemented with any modern front-end stack. Common choices:
 
 - HTML5, CSS3 (or SCSS), JavaScript (ES6+)
-- Frameworks / Libraries (optional): React, Next.js, Vue, Svelte
-- Bundlers / Tools: Vite, Webpack, Parcel
-- Deployment: GitHub Pages, Netlify, Vercel
+- Frameworks / Libraries (optional): React
+- Deployment: GitHub Pages
 
 Adjust this README to reflect the actual stack used in this repository.
 
@@ -130,6 +129,6 @@ This project is provided under the MIT License. See LICENSE file for details (or
 ## Contact
 
 - GitHub: https://github.com/Raj1Sah
-- Email: add-your-email@example.com (replace with your contact email)
+- Email: 9819692553raj@gmail.com (replace with your contact email)
 
  Thank you for checking out this portfolio repository — feel free to adapt it to your needs!
